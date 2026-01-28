@@ -1,0 +1,7 @@
+streamlit==1.31.0
+torch==2.1.2
+numpy==1.24.3
+pandas==2.0.3
+plotly==5.18.0
+yara-python==4.3.1
+pefile==2023.2.7
